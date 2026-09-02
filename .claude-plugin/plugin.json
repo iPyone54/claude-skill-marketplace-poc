@@ -1,7 +1,7 @@
 {
   "name": "poc-skills",
   "description": "配布検証用プラグイン。skills/ 直下の各ディレクトリを1スキルとして配布する。",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "iPyone54"
   }
