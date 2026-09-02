@@ -1,0 +1,14 @@
+{
+  "name": "skill-marketplace-poc",
+  "description": "スキル配布・自動更新の検証用マーケットプレイス（ダミースキルのみ）",
+  "owner": {
+    "name": "iPyone54"
+  },
+  "plugins": [
+    {
+      "name": "poc-skills",
+      "source": "./",
+      "description": "配布検証用スキル一式（skills/ 直下の各ディレクトリが1スキル）"
+    }
+  ]
+}
